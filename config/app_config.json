@@ -1,5 +1,5 @@
 {
-	"apps": {
+    "apps": {
         "status": true,
         "featured_categories": "80s Yearbook, Vintage Arcade, Classic Denim, Retro Studio, 90s Polaroid",
         "show_wallpaper_name": false,
@@ -89,7 +89,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Blue Laser Background",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-laser.webp",
+            "wallpaper_url": "blue-laser-background.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for an authentic 1980s high school yearbook photo. Wearing a retro knit sweater over a white collared shirt. The background is the iconic 1980s blue laser portrait backdrop. Authentic vintage studio lighting, soft focus, retro film grain, looking straight at the camera with a gentle smile."
@@ -99,7 +99,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Retro Prom Night",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-prom.webp",
+            "wallpaper_url": "retro-prom-night.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a cheesy 1980s high school prom photo. Wearing a shiny puff-sleeve 80s formal outfit with an oversized corsage. The background is a sparkly metallic party curtain. Authentic 1980s Kodak film camera aesthetic, slightly faded colors, heavy film grain, nostalgic high school memory."
@@ -109,7 +109,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Vintage Varsity",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-varsity.webp",
+            "wallpaper_url": "vintage-varsity.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing confidently for a 1980s high school senior portrait. Wearing a classic retro varsity letterman jacket. Grey mottled canvas studio backdrop. Soft, warm 80s studio lighting, authentic vintage photo texture, highly realistic slice-of-life 80s aesthetic."
@@ -119,7 +119,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Library Nerd Chic",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-library.webp",
+            "wallpaper_url": "library-nerd-chic.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting casually in a 1980s high school library holding old books. Wearing oversized thick retro glasses and a plaid button-up shirt. Nostalgic high school aesthetic, authentic 35mm film grain, natural light coming from a large window, highly realistic."
@@ -129,7 +129,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Band Camp Portrait",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-band.webp",
+            "wallpaper_url": "band-camp-portrait.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a 1980s marching band yearbook photo. Holding a shiny brass trumpet. Wearing a classic marching band uniform with a feathered shako hat. Authentic 1980s film photography, faded vintage colors, nostalgic youth memory."
@@ -139,7 +139,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Locker Hallway",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-locker.webp",
+            "wallpaper_url": "locker-hallway.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "leaning casually against a row of bright orange high school lockers in 1987. Wearing high-waisted acid-wash jeans and a colorful windbreaker. Authentic vintage high school hallway aesthetic, Kodak Portra 400 film, natural candid expression."
@@ -149,7 +149,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Grey Canvas Classic",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-canvas.webp",
+            "wallpaper_url": "grey-canvas-classic.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a classic 1980s school picture day. The background is a traditional mottled grey canvas. Wearing a bright neon polo shirt with the collar popped. Soft vintage studio lighting, highly realistic 35mm film texture."
@@ -159,7 +159,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Pastel Sweater",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-pastel.webp",
+            "wallpaper_url": "pastel-sweater.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a nostalgic 1980s yearbook photo wearing a pastel pink and mint green geometric patterned sweater. Warm vintage tones, slight vignette around the edges, authentic school portrait studio aesthetic, photorealistic."
@@ -169,7 +169,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "Cheerleader Spirit",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-cheer.webp",
+            "wallpaper_url": "cheerleader-spirit.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing cheerfully holding vintage pom-poms for a 1980s high school cheerleader photo. Wearing a classic retro cheer uniform. Soft hazy filter, bright smiling expression, nostalgic 80s youth culture, highly detailed film aesthetic."
@@ -179,7 +179,7 @@
             "category_name": "80s Yearbook",
             "wallpaper_name": "80s Graduation",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "yearbook-grad.webp",
+            "wallpaper_url": "80s-graduation.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing proudly in a shiny 1980s graduation gown and cap, holding a rolled diploma. Blue laser background. Classic 1980s studio portrait lighting, heavy film grain, nostalgic graduation memory, hyper-realistic photo."
@@ -189,7 +189,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Neon Pinball",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-pinball.webp",
+            "wallpaper_url": "neon-pinball.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "playing a vintage pinball machine in a dark, nostalgic 1980s arcade. Colorful neon lights from the arcade cabinets reflecting vibrantly on the face. Cinematic 85mm lens, Stranger Things aesthetic, glowing CRT screen reflections, heavy cinematic film grain, highly atmospheric."
@@ -199,7 +199,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Retro Roller Rink",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-roller.webp",
+            "wallpaper_url": "retro-roller-rink.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "hanging out at an indoor 1980s roller skating rink. Wearing retro colorful windbreaker jackets. Background features glowing disco balls and neon geometric carpets. Shot on vintage 35mm film, dynamic lighting, nostalgic fun weekend vibe, slightly blurry motion effect in the background."
@@ -209,7 +209,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Cyberpunk Synthwave",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-synthwave.webp",
+            "wallpaper_url": "cyberpunk-synthwave.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "standing outside a 1980s retro arcade at night. Cyberpunk synthwave aesthetic with dominant vibrant pink, purple, and cyan neon lighting. Wearing dark retro sunglasses and a leather jacket. Epic cinematic lighting, misty street atmosphere, highly detailed photorealistic retro-futuristic style."
@@ -219,7 +219,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Token Booth Night",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-token.webp",
+            "wallpaper_url": "token-booth-night.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "standing at the glowing token booth inside a 1980s arcade, holding a handful of shiny brass tokens. Soft neon ambient lighting, vintage casual fashion, authentic nostalgic arcade aesthetic, heavy film grain, realistic cinematic still."
@@ -229,7 +229,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "CRT Screen Glow",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-crt.webp",
+            "wallpaper_url": "crt-screen-glow.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "staring intensely at a classic 1980s arcade fighting game. The face is illuminated purely by the blue and magenta glow of the old CRT monitor. Dark moody background, cinematic depth of field, authentic retro gaming atmosphere, photorealistic lighting."
@@ -239,7 +239,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Air Hockey Match",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-hockey.webp",
+            "wallpaper_url": "air-hockey-match.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "playing an intense game of air hockey in a neon-lit 1990s arcade. Laughing candidly. Overhead fluorescent lighting mixed with blacklight neon glow. Authentic motion blur on the hockey puck, vintage disposable camera aesthetic."
@@ -249,7 +249,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Pac-Man Glow",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-pacman.webp",
+            "wallpaper_url": "pac-man-glow.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "leaning casually on a yellow vintage Pac-Man arcade cabinet. Dark arcade room filled with glowing retro screens. Wearing a classic 80s band t-shirt. Cinematic 35mm film photography, neon lighting reflections, nostalgic youth culture."
@@ -259,7 +259,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Neon Carpet Glow",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-carpet.webp",
+            "wallpaper_url": "neon-carpet-glow.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting on the iconic blacklight neon geometric carpet of a 1980s arcade floor, holding a retro soda cup. Playful and rebellious youth aesthetic, glowing UV lights, cinematic color grading, authentic film photography texture."
@@ -269,7 +269,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Skee-Ball Champion",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-skeeball.webp",
+            "wallpaper_url": "skee-ball-champion.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "rolling a wooden ball down a vintage Skee-Ball machine in a retro arcade. Glowing yellow score tickets dispensing from the machine. Warm tungsten lighting mixed with neon arcade signs, authentic 1980s photography style, highly detailed."
@@ -279,7 +279,7 @@
             "category_name": "Vintage Arcade",
             "wallpaper_name": "Arcade Prize Counter",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "arcade-prize.webp",
+            "wallpaper_url": "arcade-prize-counter.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "standing happily at a 1980s arcade prize counter holding a giant stuffed animal and a long strip of winning tickets. Nostalgic 80s mall aesthetic, vibrant colors, shot on Kodak Gold 200 film, highly realistic candid moment."
@@ -289,7 +289,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Oversized 90s Denim",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-oversized.webp",
+            "wallpaper_url": "oversized-90s-denim.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "wearing an oversized, faded 1990s vintage denim jacket over a plain white t-shirt. Standing in front of a brick wall on a sunny afternoon. Authentic 90s street fashion photography, shot on Kodak Portra 400, natural sunlight, warm color grading, highly detailed fabric texture."
@@ -299,7 +299,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Double Denim Style",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-double.webp",
+            "wallpaper_url": "double-denim-style.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "rocking a full 1980s double denim outfit (denim jacket and jeans). Sitting casually on the hood of a vintage 1980s muscle car. Golden hour sunlight, vintage magazine editorial fashion shoot, nostalgic summer road trip vibe, highly realistic retro lifestyle photography."
@@ -309,7 +309,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Walkman & Headphones",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-walkman.webp",
+            "wallpaper_url": "walkman-headphones.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "listening to music using an old-school cassette Walkman with vintage orange foam headphones. Wearing a retro denim vest. Candid street photography style, 1980s nostalgic aesthetic, authentic film grain, sunny day, carefree vintage youth vibe."
@@ -319,7 +319,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Boombox Street",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-boombox.webp",
+            "wallpaper_url": "boombox-street.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "carrying a massive silver 1980s boombox on the shoulder while walking down an urban street. Wearing a stonewashed denim jacket and retro sunglasses. Hip-hop classic 80s aesthetic, vintage film camera look, authentic street culture photography."
@@ -329,7 +329,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Grunge Skatepark",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-skatepark.webp",
+            "wallpaper_url": "grunge-skatepark.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting on a skateboard at a concrete skatepark in the mid-1990s. Wearing ripped denim jeans and an oversized flannel shirt. Grunge aesthetic, overcast sky lighting, authentic 90s alternative youth culture, shot on 35mm film."
@@ -349,7 +349,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Retro BMX Bike",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-bmx.webp",
+            "wallpaper_url": "retro-bmx-bike.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting on a chrome 1980s BMX bicycle in a suburban neighborhood. Wearing a vintage denim jacket with patches. Warm golden hour sunlight, nostalgic childhood memory aesthetic, authentic 1980s suburbia photography."
@@ -359,7 +359,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Brick Wall Casual",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-brickwall.webp",
+            "wallpaper_url": "brick-wall-casual.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "leaning coolly against an old red brick wall in a vintage city alleyway. Wearing a classic 1990s Levi's denim jacket with a popped collar. Hard sunlight creating sharp shadows, high fashion 90s editorial style, highly realistic texture."
@@ -379,7 +379,7 @@
             "category_name": "Classic Denim",
             "wallpaper_name": "Sunset Denim Roadtrip",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "denim-roadtrip.webp",
+            "wallpaper_url": "sunset-denim-roadtrip.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "leaning out the window of a vintage 1980s pickup truck during a sunset road trip. Wearing a classic denim jacket with windblown hair. Cinematic golden hour backlighting, nostalgic americana aesthetic, photorealistic road trip memory."
@@ -389,7 +389,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Awkward Glamour Shot",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-glamour.webp",
+            "wallpaper_url": "awkward-glamour-shot.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a classic 1980s mall glamour shot. Wearing a shiny silk blouse, styled with big voluminous 80s hair. Soft romantic hazy filter over the lens, starburst light effect, pastel pink studio backdrop. Authentic cheesy and nostalgic 80s portrait style."
@@ -399,7 +399,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Double Exposure 80s",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-double.webp",
+            "wallpaper_url": "double-exposure-80s.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "a vintage 1980s studio portrait featuring a classic double exposure effect: a large faded profile of the face in the background, with a smaller full-body pose in the front. Brown canvas backdrop, muted retro colors, authentic old family photo album aesthetic, heavy film grain."
@@ -409,7 +409,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Neon Geometric Background",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-geometric.webp",
+            "wallpaper_url": "neon-geometric-background.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing in a 1990s retro studio with a bright, funky geometric shapes background (Saved by the Bell style). Wearing vibrant neon-colored retro clothing. High contrast lighting, fun and energetic pose, authentic 90s pop culture magazine aesthetic."
@@ -419,7 +419,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Soft Focus Romance",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-softfocus.webp",
+            "wallpaper_url": "soft-focus-romance.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for an overly romantic 1980s couples studio portrait. Heavy soft-focus diffusion filter, glowing skin, wearing matching white turtlenecks. Cloudy sky painted backdrop. Hilariously authentic vintage glamour photography, highly detailed."
@@ -429,7 +429,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Cheesy Prop Telephone",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-telephone.webp",
+            "wallpaper_url": "cheesy-prop-telephone.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing enthusiastically in a 1980s photo studio holding a giant retro brick mobile phone (Zack Morris phone) to the ear. Bright yellow studio background, wearing a colorful oversized blazer. Authentic 80s corporate/yuppie aesthetic, vintage flash lighting."
@@ -439,7 +439,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Pastel Pink Backdrop",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-pastelpink.webp",
+            "wallpaper_url": "pastel-pink-backdrop.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing elegantly in a 1980s photo studio with a solid pastel pink paper backdrop. Wearing a vintage shoulder-padded blazer. Classic harsh studio flash creating a sharp shadow on the wall behind, authentic 80s fashion catalog aesthetic."
@@ -449,7 +449,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Floating Heads Portrait",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-floating.webp",
+            "wallpaper_url": "floating-heads-portrait.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a bizarre 1980s studio portrait where the face appears softly faded into a pitch-black background, creating a floating head effect. Classic retro family photo studio vibe, vintage sepia or faded color tones, heavy film texture."
@@ -459,7 +459,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Family Plaid Flannel",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-plaid.webp",
+            "wallpaper_url": "family-plaid-flannel.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing for a cheesy 1990s family studio portrait wearing matching red plaid flannel shirts and denim jeans. Rustic fake wood cabin studio backdrop. Warm studio lighting, authentic 90s mall photography aesthetic."
@@ -469,7 +469,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Glamour Feather Boa",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-boa.webp",
+            "wallpaper_url": "glamour-feather-boa.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing seductively for a 1980s glamour studio shot wrapped in a vibrant pink feather boa. Soft glowing lens filter, dramatic moody lighting, sequin dress, authentic retro diva aesthetic, highly realistic vintage photo."
@@ -479,7 +479,7 @@
             "category_name": "Retro Studio",
             "wallpaper_name": "Retro Laser Grid",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "studio-lasergrid.webp",
+            "wallpaper_url": "retro-laser-grid.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing in a 1980s studio against a retro-futuristic glowing neon laser grid background. Wearing futuristic 80s fashion (silver jacket, neon sunglasses). High contrast lighting, synthwave album cover aesthetic, highly detailed film render."
@@ -489,7 +489,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Night Party Flash",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-party.webp",
+            "wallpaper_url": "night-party-flash.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "captured candidly at a 1990s house party. Authentic vintage polaroid camera style. Harsh direct flash lighting, deep dark shadows behind the subject, red-eye effect, light leaks on the edges. Wearing 90s grunge fashion. Highly realistic disposable camera aesthetic."
@@ -499,7 +499,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "VHS Camcorder Vibe",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-vhs.webp",
+            "wallpaper_url": "vhs-camcorder-vibe.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "looking directly into a vintage 1990s VHS camcorder. The image has authentic VHS tape glitch effects, static noise, chromatic aberration, and a timestamp in the bottom corner (1998). Casual indoor home setting, nostalgic childhood home video aesthetic, highly atmospheric."
@@ -509,7 +509,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Car Flash Night",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-car.webp",
+            "wallpaper_url": "car-flash-night.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting in the passenger seat of an old car at night, illuminated only by a harsh camera flash. Authentic 1990s disposable camera photography, heavy film grain, slight motion blur, casual late-night fast food run vibe, hyper-realistic nostalgic youth aesthetic."
@@ -519,7 +519,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Messy 90s Bedroom",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-bedroom.webp",
+            "wallpaper_url": "messy-90s-bedroom.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "sitting on the floor of a messy 1990s teenager bedroom covered in boyband and grunge band posters. Playing an old Nintendo console. Harsh polaroid flash lighting, authentic retro domestic aesthetic, highly detailed nostalgic room."
@@ -529,7 +529,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Fast Food Run Night",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-fastfood.webp",
+            "wallpaper_url": "fast-food-run-night.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "eating french fries at a bright neon-lit fast food diner booth at 2 AM. Shot with a 1990s disposable camera. Harsh direct flash, messy candid moment, vintage grunge aesthetic, heavy film grain, hyper-realistic nostalgic memory."
@@ -539,7 +539,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Disposable Flash Outdoors",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-outdoors.webp",
+            "wallpaper_url": "disposable-flash-outdoors.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "standing in a dark suburban street at night holding a glowing sparkler. Illuminated strictly by the harsh flash of a 1990s disposable camera. Pitch black background, slightly overexposed face, authentic vintage party aesthetic, raw photography."
@@ -549,7 +549,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Couch Hangout Candid",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-couch.webp",
+            "wallpaper_url": "couch-hangout-candid.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "laughing hysterically while sitting on a floral pattern vintage couch in a 1990s living room. Authentic polaroid snapshot style, warm indoor tungsten light mixed with bright camera flash, candid slice-of-life friendship memory."
@@ -559,7 +559,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Summer Camp Polaroid",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-summercamp.webp",
+            "wallpaper_url": "summer-camp-polaroid.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "posing playfully next to a lake in a 1990s summer camp. Wearing a vintage camp t-shirt and backward cap. Sun-faded polaroid border effect, washed-out vintage colors, nostalgic childhood vacation aesthetic, authentic film texture."
@@ -569,7 +569,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Bathroom Mirror Flash",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-mirror.webp",
+            "wallpaper_url": "bathroom-mirror-flash.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "taking a 1990s style mirror selfie using a bulky vintage film camera with a bright flash reflecting off the glass. Messy bathroom background, grunge makeup, authentic raw film photography, deep shadows, nostalgic aesthetic."
@@ -579,7 +579,7 @@
             "category_name": "90s Polaroid",
             "wallpaper_name": "Birthday Cake Flash",
             "wallpaper_thumbnail": "",
-            "wallpaper_url": "polaroid-birthday.webp",
+            "wallpaper_url": "birthday-cake-flash.webp",
             "wallpaper_type": "static",
             "rewarded": false,
             "prompt": "blowing out candles on a nostalgic 1980s birthday cake in a dark dining room. The only light source is the glowing candles and the harsh camera flash. Messy party hats, authentic family photo album aesthetic, heavy 35mm film grain."
